@@ -7,4 +7,5 @@ FRUITS=("Apple" "Guava" "Banana")
 
 SUM=$(($NUMBER1+$NUMBER2))
 
+echo "SUM is: $SUM"
 echo "All fruits: ${FRUITS[@]}"
